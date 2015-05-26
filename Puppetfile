@@ -7,6 +7,8 @@ mod "puppetlabs/ntp"
 # Modules from Github using various references
 mod 'test-test1',
   :git => 'git://github.com/garrettrowell/test-test1.git'
+  :ref => 'testing'
 mod 'test-test2',
   :git => 'git://github.com/garrettrowell/test-test2.git'
+  :ref => 'testing'
 
